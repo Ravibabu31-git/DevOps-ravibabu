@@ -1,0 +1,4 @@
+.classpath
+.project
+#ignore folder called node_modules
+/node_modules
